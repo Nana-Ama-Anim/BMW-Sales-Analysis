@@ -1,4 +1,4 @@
-# 🚗 BMW Car Sales Analysis
+#  BMW Car Sales Analysis
 
 ## 📌 Project Description
 
@@ -108,9 +108,9 @@ The goal is to support **automotive businesses or dealerships** in making inform
 
 ## 📬 Contact
 
-- **LinkedIn:** [Your LinkedIn Profile](www.linkedin.com/in/nanaamaanim)
-- **Email:** [your.email@example.com](mailto:nanatewaa1@gmail.com)
+- [LinkedIn](www.linkedin.com/in/nanaamaanim)
+- [Email](mailto:nanatewaa1@gmail.com)
 
 ---
 
-> ⭐ *If you found this useful, feel free to star the repo and share your thoughts!*
+> *If you found this useful, feel free to star the repo and share your thoughts!*
